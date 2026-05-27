@@ -1,0 +1,6 @@
+{
+  "name": "Lịch Học Cá Nhân",
+  "description": "Bảng quản lý và theo dõi lịch học cá nhân từ Tuần 6 đến Tuần 10",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
